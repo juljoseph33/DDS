@@ -48,6 +48,12 @@ body {
 	border-bottom: 1px solid #ff2468;
 	color: #ff2468;
 }
+#first {
+	width: 11%!important;
+    float: left!important;
+    display: inline!important;
+    margin-top: 1%!important;
+}
 #aboutusheader {
 	width: 101%;
 	margin-left: -1%;
