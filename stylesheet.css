@@ -67,7 +67,7 @@ body {
 	margin-top: -1.8%;
 	padding-top: 3%;
 }
-#aboutus p, #context1, #contact p, #ourproject p {
+#aboutus p, #context1, #context2, #contact p, #ourproject p, #haveyoursay p {
 	width: 50%;
 	margin-left: 25%;
 	/*padding-bottom: 4%;*/
@@ -116,14 +116,14 @@ a:hover {
 	margin-left: 24%;
 }
 
-#ourproject {
+#ourproject, #haveyoursay {
 	margin-top: -2%;
 	/*background-color: #E0F3F3;*/
 	background-color: #EFEFEF;
 	width: 101%;
 	margin-left: -1%;
 }
-#ourproject h1 {
+#ourproject h1, #haveyoursay h1 {
 	/*text-align: center;*/
 	padding-top: 3%;
 	padding-bottom: 1%;
@@ -135,7 +135,7 @@ a:hover {
 	color: #00a5a6;
 	font-size: 1.22em;
 }
-#ourproject p, #context p {
+#ourproject p, #context p, #haveyoursay p {
 	padding-bottom: 5%;
 }
 #contact p {
@@ -180,7 +180,7 @@ ol li {
 #tabs {
 	width: 70%;
 	margin-left: 15%;
-	/*margin-top: -3%;*/
+	margin-top: -4%;
 }
 #tabs-1, #tabs-2, #tabs-3, #tabs-4 {
 	background-color: #00a5a6;
